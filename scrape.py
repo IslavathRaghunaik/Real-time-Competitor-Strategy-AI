@@ -187,8 +187,8 @@ for product_name, link in links.items():
 
     
 # API keys
-API_KEY = "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"  # Groq API Key
-SLACK_WEBHOOK = "https://hooks.slack.com/services/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"  # Slack webhook URL
+API_KEY = ""  # Groq API Key
+SLACK_WEBHOOK = ""  # Slack webhook URL
 # Streamlit app setup
 st.set_page_config(layout="wide")
 # Create two columns
